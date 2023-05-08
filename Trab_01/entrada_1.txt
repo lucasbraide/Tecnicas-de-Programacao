@@ -1,0 +1,5 @@
+12345678901;João da Silva 
+12345678912;Maria Oliveira
+90191877826;LeBron James
+66583940976;Stephen Curry
+00998274763;Marcus Smart
